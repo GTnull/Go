@@ -19,6 +19,6 @@ In the second version, the design of AI has been achieved. The Minimax Algoright
 
 ## examples
 *效果图*
-![example1](Go/version_2.0/src/gogame/Icons/example1.png)
-![example2](Go/version_2.0/src/gogame/Icons/example2.png)
-![example3](Go/version_2.0/src/gogame/Icons/example3.png)
+![example1](version_2.0/src/gogame/Icons/example1.png)
+![example2](version_2.0/src/gogame/Icons/example2.png)
+![example3](version_2.0/src/gogame/Icons/example3.png)
