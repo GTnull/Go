@@ -16,3 +16,7 @@ In the second version, the design of AI has been achieved. The Minimax Algoright
 *二版*
 
 *在第二版中，完成了AI的设计。应用了基于蒙特卡洛方法的极小化极大算法。由于本算法和我的计算机性能的有限，19x19的标准棋盘太大，无法计算，因此只应用在了9x9小棋盘上。*
+
+##效果图
+
+
